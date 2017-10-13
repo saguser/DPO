@@ -1,1 +1,1 @@
-select 'abctes'
+select 'abct'
