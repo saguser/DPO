@@ -1,1 +1,0 @@
-select 'intuit-abc-123'
