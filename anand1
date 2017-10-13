@@ -2,4 +2,4 @@ SELECT count(*)
 FROM SBG_DM.fact_invoice_event
 WHERE event_datetime 
 BETWEEN '$START_DATE' 
-and '$START_DATE'
+and '$START_DATE' 
